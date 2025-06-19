@@ -33,5 +33,14 @@ Different charts were created to visualise the data and provide a visual overvie
 A PowerPoint presentation was prepared to aid in presenting the dashboard to Fecom Inc.
 
 ## Summary of key business findings
+1. Fecom Inc. has quite a large base of sellers totalling 735 with an overage order value of 134,000 pounds. There have been about 2800 orders which garnered a revenue of 380,000 pounds. The large number of buyers were males with the top selling category noted as computer gaming related products.
+2. Orders, hence revenue has seen a gradual increase over time with eminent evidence of seasonality noted for certain months. Recent evidence however suggest a decline and deviation from the seasonal pattern, calling for remedies to salvage revenue. A total of about 0.5% of orders were cancelled. Although negligible, this calls for attention given the recent decline in sales. 
+3. Credit cards were noted as the most preferred option for purchase, with prepard cards being least preferred.
+
+## Recommendations
+1. Diversify the population of customers to reach out to more female users. It would be ideal to channel marketing strategies also towards women as they form a smaller proportion of the customer base. This strategy is a viable approach to increase orders within other categories including Health and Beauty and Home Appliances. 
+2. Stringent marketing efforts towards improving home appliances, joined together with promotion linked to vouchers and also prepaid and debit cards would not only improve sales significantly but also diversify the means of payment to prevent over dependency on a single source of payment, reduce transaction fees associated with credit card payments, promote cash flow timeliness, and reduce chargeback and fraud risks.
+   a. The focus on home appliances is built also from the notion that although it has the lowest orders in the top three most revenued category, it provides the second highest revenue to Fecom Inc. Improving orders within this category will significantly improve revenue. 
+3. Finally, Fecom Inc. was advised to pay particular attention to sales between May and June as orders tend to decline often within this period. 
 
 
